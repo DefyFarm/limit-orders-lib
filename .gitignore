@@ -1,0 +1,38 @@
+
+# Dependency directory
+node_modules
+
+# local env variables
+.env
+.env.testing
+
+# cache
+.eslintcache
+
+# VS Code
+.vscode
+
+# macOS
+.DS_Store
+*.icloud
+
+
+# redis
+dump.rdb
+
+# coverage
+coverage
+.nyc_output
+
+# typescript
+dist
+
+
+limit-orders-hooks
+
+yalc.lock
+yalc.sig
+.yalc
+
+# bundle analyzer
+stats.html
